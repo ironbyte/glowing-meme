@@ -2,5 +2,7 @@
 
 ## Instructions
 
+```
 pnpm i (install deps)
 pnpm dev
+```
